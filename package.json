@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matthew-fung-hf/apollo-graphql-poc.git"
+    "url": "git+https://github.com/frostcs7/graphql-poc"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matthew-fung-hf/apollo-graphql-poc/issues"
+    "url": "https://github.com/frostcs7/graphql-poc/issues"
   },
-  "homepage": "https://github.com/matthew-fung-hf/apollo-graphql-poc#readme",
+  "homepage": "https://github.com/frostcs7/graphql-poc/blob/main/README.md",
   "dependencies": {
     "apollo-datasource-rest": "^3.6.1",
     "apollo-server": "^3.9.0",
