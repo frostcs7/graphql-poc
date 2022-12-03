@@ -2,15 +2,14 @@
 This is poc for menu tribe for graphql
 Its fetching the basic product entity with countries
 
-##Install and how to run:
+## Install and how to run:
 
 `npm install -r`
 
 `node index.js`
 
 
-###
-Query:
+### Query:
 ```
 query ProductQuery($country: String) {
   products {
